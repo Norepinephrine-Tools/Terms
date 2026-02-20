@@ -29,7 +29,7 @@ XposedOrNot
 Use of such services is subject to their respective terms and policies. The creator of the Tool is not responsible for service availability, rate limiting, API changes, or third-party restrictions.
 
 6. Java Script
-The Tool may run javascript you can enter through your webrowser. Always make sure you trust the creatorof the Java Script snippet before running the code
+The Tool may run javascript you can enter through your web browser. Always make sure you trust the creator of the Java Script snippet before running the code
 
 7. No Warranty
 The Tool is provided “as is” without warranties of any kind, express or implied. The creator makes no guarantees regarding accuracy, availability, or suitability for any purpose.
