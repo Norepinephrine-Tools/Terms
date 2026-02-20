@@ -1,0 +1,33 @@
+tosver = 1
+Terms of Service
+Norepinephrine – Beta
+Effective Date: February 20th, 2026
+1. Acceptance of Terms
+By using Norepinephrine (“the Tool”), you agree to be bound by these Terms of Service. If you do not agree, do not use the Tool.
+2. User Responsibility
+You are solely responsible for your use of the Tool.
+You assume full responsibility for any actions taken using your copy of the Tool, including but not limited to misuse, abuse, harassment, or unlawful conduct.
+The creator of the Tool does not monitor, control, or influence how individual copies are used.
+3. Compliance With Laws
+You agree to comply with all applicable local, state, national, and international laws when using the Tool.
+Certain features may be restricted or illegal in some jurisdictions. It is your responsibility to determine whether use of any feature is lawful in your location before using it.
+4. Prohibited Use
+You agree not to use the Tool:
+For harassment, stalking, intimidation, or abuse
+To violate privacy rights
+To collect or distribute personal data unlawfully
+To conduct doxxing, coercion, or targeted harassment
+To interfere with or disrupt third-party services
+5. Third-Party Services
+The Tool may interact with third-party services, including but not limited to:
+Wikipedia
+XposedOrNot
+Use of such services is subject to their respective terms and policies. The creator of the Tool is not responsible for service availability, rate limiting, API changes, or third-party restrictions.
+6. No Warranty
+The Tool is provided “as is” without warranties of any kind, express or implied. The creator makes no guarantees regarding accuracy, availability, or suitability for any purpose.
+7. Limitation of Liability
+To the maximum extent permitted by law, the creator shall not be liable for any damages, claims, losses, or legal consequences arising from use or misuse of the Tool.
+8. Indemnification
+You agree to indemnify and hold harmless the creator from any claims, liabilities, damages, or expenses arising out of your use or misuse of the Tool.
+9. Modifications
+These Terms may be updated at any time. Continued use of the Tool constitutes acceptance of any updated Terms.
